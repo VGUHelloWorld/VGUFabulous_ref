@@ -1,0 +1,2 @@
+new_message:takeoff_1
+-DCATKIN_DEVEL_PREFIX=/home/minh_tai/SimpleTest1/devel -DCMAKE_INSTALL_PREFIX=/home/minh_tai/SimpleTest1/install -G Unix Makefiles

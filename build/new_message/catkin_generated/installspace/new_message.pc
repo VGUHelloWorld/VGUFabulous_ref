@@ -1,0 +1,8 @@
+prefix=/home/minh_tai/SimpleTest1/install
+
+Name: new_message
+Description: Description of new_message
+Version: 0.0.0
+Cflags: -I/home/minh_tai/SimpleTest1/install/include
+Libs: -L/home/minh_tai/SimpleTest1/install/lib 
+Requires: 

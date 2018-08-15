@@ -1,0 +1,8 @@
+prefix=/home/minh_tai/SimpleTest1/devel
+
+Name: takeoff_1
+Description: Description of takeoff_1
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/minh_tai/SimpleTest1/devel/lib 
+Requires: 
